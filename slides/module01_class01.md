@@ -19,8 +19,8 @@ style: |
     color: #004080;
   }
   footer {
-    font-size: 0.8em;
-    color: #888;
+    font-size: 0.5em;
+    color: #1b6794;
   }
 ---
 
