@@ -12,24 +12,25 @@ footer: '[🏠 Home](https://raghurama123.github.io/biostatistics/)'
 
 ## What is Biostatistics?
 Biostatistics deals with the application of statistical methods to biological problems.  
-**Biostatistics = Biology + Statistics**
+**Biostatistics = Statistics for Biology**
 
 ---
 
-## Why can't we just call it Statistics?
+<small>
 
-In fields like physics or chemistry:
-- Repeated measurements on the **same sample** tend to yield **consistent results**.
-- Variation is often due to **instrumental or experimental error**, which can be minimized by averaging.
+In physics or chemistry:  
+- Repeated measurements on the **same sample** yield consistent results.  
+- Variation is mostly due to **experimental error** and can be averaged out.
 
-In biology:
-- We often deal with **populations of individuals** (cells, organisms, patients) that differ **naturally**.
-- This **biological variation** is not an error—it's the **core subject** of study.
-- Hence, we need **statistical methods that go beyond repeated measurements** to account for:
-  - Genetic diversity
-  - Environmental influences
+In biology:  
+- We study **naturally varying populations** (organisms, cells, patients).  
+- This **biological variation** is meaningful—not error.  
+- We must go **beyond repeated measurements** to understand:  
+  - Genetic differences  
+  - Environmental effects  
   - Random biological processes
 
-> Biostatistics is not just about precision—it’s about making sense of variation in living systems.
+> Biostatistics helps us make sense of variation—not eliminate it.
 
+</small>
 
