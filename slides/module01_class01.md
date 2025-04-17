@@ -58,19 +58,23 @@ In biology:
 
 Biological data (or variables) can be broadly classified into:
 
-- **Categorical (Qualitative) data**  
-  These are non-numeric and describe categories or groups, measured in nominal or ordinal scales.  
+- **Categorical or Qualitative data**:  These are non-numeric and describe categories or groups.  
+  They are measured using **nominal** or **ordinal** scales.
+
   - **Nominal scale**: Categories without any intrinsic order  
     *Example: blood group, species name*
-  - **Ordinal scale**: Categories with a meaningful order, but not necessarily equal spacing  
-    *Example: pain severity (mild, moderate, severe)*
 
-- **Numerical (Quantitative) data**  
-  These are numeric measured in interval or ratio scales.
-  - **Interval scale**: Numbers in an interval but **no true zero**  
-    *Example: temperature in Celsius*
-  - **Ratio scale**: Numbers starting from a **true zero** point  
-    *Example: height, weight, enzyme concentration*
+  - **Ordinal scale**: Categories with a meaningful order, but unequal spacing between categories  
+    *Example: Abundance of a plant species as Dominant, Abundant, Frequent, Occasional, Rare (DAFOR)*
+
+- **Numerical or Quantitative data**:  These are numeric values that can be measured or counted.  
+  They are measured on **interval** or **ratio** scales.
+
+  - **Interval scale**: Numeric scale with equal spacing but **no true zero**  
+    *Example: Temperature in °C (40°C is not twice as hot as 20°C)*
+
+  - **Ratio scale**: Numeric scale with a **true zero** point  
+    *Example: Height of a plant (40 cm is twice as tall as 20 cm)*
 
 </small>
 
