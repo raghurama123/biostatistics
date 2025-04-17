@@ -18,7 +18,18 @@ Biostatistics deals with the application of statistical methods to biological pr
 
 ## Why can't we just call it Statistics?
 
-In chemistry or physics, repeated measurements on the same sample give similar results—variation is mostly due to experimental error.
+In fields like physics or chemistry:
+- Repeated measurements on the **same sample** tend to yield **consistent results**.
+- Variation is often due to **instrumental or experimental error**, which can be minimized by averaging.
 
-In biology, variability is inherent: different individuals (even of the same species) differ, and the goal is to analyze and understand this **biological variation**.
+In biology:
+- We often deal with **populations of individuals** (cells, organisms, patients) that differ **naturally**.
+- This **biological variation** is not an error—it's the **core subject** of study.
+- Hence, we need **statistical methods that go beyond repeated measurements** to account for:
+  - Genetic diversity
+  - Environmental influences
+  - Random biological processes
+
+> Biostatistics is not just about precision—it’s about making sense of variation in living systems.
+
 
