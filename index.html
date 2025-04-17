@@ -8,6 +8,15 @@
     body { font-family: sans-serif; padding: 2rem; max-width: 800px; margin: auto; }
     h1 { color: #2c3e50; }
     a { color: #2980b9; text-decoration: none; }
+  .blink {
+    animation: blinker 1.5s linear infinite;
+    color: #c0392b;
+    font-weight: bold;
+  }
+
+  @keyframes blinker {
+    50% { opacity: 0; }
+  }
   </style>
 </head>
 <body>
@@ -24,7 +33,7 @@
 
   <h2>📁 Contents</h2>
 
-  <p><em>The slides provided here are intended to complement the live lectures and accompanying board work. They do not replace in-class explanations.</em></p>
+  <p class="blink"><em>The slides provided here are intended to complement the live lectures and accompanying board work. They do not replace in-class explanations.</em></p>
 
   <h3>Module 1: Introduction to Biostatistics and Data Description</h3>
   <ul>
