@@ -4,6 +4,21 @@ title: Introduction to Biostatistics
 theme: default
 paginate: true
 footer: '[🏠 Home](https://raghurama123.github.io/biostatistics/)'
+style: |
+  section {
+    font-size: 1.1em;
+    line-height: 1.5;
+  }
+  h1 {
+    color: #94231b;
+  }
+  h2, h3 {
+    color: #004080;
+  }
+  footer {
+    font-size: 0.8em;
+    color: #888;
+  }
 ---
 
 # Module 1: Introduction to Biostatistics and Data Description
