@@ -30,7 +30,7 @@ In biology:
   - Environmental effects  
   - _Random_ biological processes
 
-> Biostatistics helps us to do statstics while accounting for biological variation—not eliminate it.
+> Biostatistics helps us to do statistics while accounting for biological variation—not eliminate it.
 
 </small>
 
