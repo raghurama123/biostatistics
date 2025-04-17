@@ -3,10 +3,10 @@ marp: true
 title: Introduction to Biostatistics
 theme: default
 paginate: true
-footer: '[🏠 Home](https://raghurama123.github.io/biostatistics/)'
+footer: '[Go to main page](https://raghurama123.github.io/biostatistics/)'
 style: |
   section {
-    font-size: 2em;
+    font-size: 1.5em;
     line-height: 1.5;
   }
   h1{
@@ -31,8 +31,6 @@ style: |
 ## What is Biostatistics?
 Biostatistics deals with the application of statistical methods to biological problems.  
 **Biostatistics = Statistics for Biology**
-
----
 
 <small>
 
