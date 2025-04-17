@@ -6,13 +6,16 @@ paginate: true
 footer: '[🏠 Home](https://raghurama123.github.io/biostatistics/)'
 style: |
   section {
-    font-size: 1.1em;
+    font-size: 2em;
     line-height: 1.5;
   }
-  h1 {
+  h1{
     color: #94231b;
   }
-  h2, h3 {
+  h2{
+    color: #94231b;
+  }
+  h3 {
     color: #004080;
   }
   footer {
