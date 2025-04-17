@@ -10,10 +10,15 @@ footer: '[🏠 Home](https://raghurama123.github.io/biostatistics/)'
 
 ---
 
-## Topics Covered
+## What is Biostatistics?
+Biostatistics deals with the application of statistical methods to biological problems.  
+**Biostatistics = Biology + Statistics**
 
-- What is biostatistics?
-- Types of biological data
-- Scales of measurement
-- Examples from life sciences
+---
+
+## Why can't we just call it Statistics?
+
+In chemistry or physics, repeated measurements on the same sample give similar results—variation is mostly due to experimental error.
+
+In biology, variability is inherent: different individuals (even of the same species) differ, and the goal is to analyze and understand this **biological variation**.
 
