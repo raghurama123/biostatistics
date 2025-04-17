@@ -28,11 +28,11 @@ style: |
 
 ---
 
+<small>
+
 ## What is Biostatistics?
 Biostatistics deals with the application of statistical methods to biological problems.  
 **Biostatistics = Statistics for Biology**
-
-<small>
 
 In physics or chemistry:  
 - Variation is mostly due to **experimental error**. 
@@ -49,4 +49,31 @@ In biology:
 > Biostatistics helps us to do statistics while accounting for biological variation—not eliminate it.
 
 </small>
+
+---
+
+<small>
+
+## Types of Biological Data
+
+Biological data (or variables) can be broadly classified into:
+
+- **Categorical (Qualitative) data**  
+  These are non-numeric and describe categories or groups, measured in nominal or ordinal scales.  
+  - **Nominal scale**: Categories without any intrinsic order  
+    *Example: blood group, species name*
+  - **Ordinal scale**: Categories with a meaningful order, but not necessarily equal spacing  
+    *Example: pain severity (mild, moderate, severe)*
+
+- **Numerical (Quantitative) data**  
+  These are numeric measured in interval or ratio scales.
+  - **Interval scale**: Numbers in an interval but **no true zero**  
+    *Example: temperature in Celsius*
+  - **Ratio scale**: Numbers starting from a **true zero** point  
+    *Example: height, weight, enzyme concentration*
+
+</small>
+
+---
+
 
