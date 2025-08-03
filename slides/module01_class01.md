@@ -51,18 +51,18 @@ Biostatistics deals with the application of statistical methods to biological pr
 **Biostatistics = Statistics for Biology**
 
 In physics or chemistry:  
-- Variation is mostly due to **experimental error**. 
+- Variation is mostly due to **experimental error**. Recall the definition of _variance_ and _standard deviation_. 
 - Averaging over repeated measurements on the **same sample** eliminates variance.
 
 In biology:  
-- We study **naturally varying populations** (organisms, cells, patients).  
-- This **biological variation** is a meaningful phenomenon—not error.  
+- We study **naturally varying populations** (organisms, cells, patients, etc.).  
+- This **biological variation** is a meaningful phenomenon and not an error.  
 - We must go **beyond repeated measurements** to understand:  
   - Genetic differences  
   - Environmental effects  
   - _Random_ biological processes
 
-> _Biostatistics helps us to do statistics while accounting for biological variation—not eliminate it._
+> _Biostatistics helps us to do statistics while accounting for biological variation._
 
 </small>
 
